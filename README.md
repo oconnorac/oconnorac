@@ -1,1 +1,1 @@
-[](./img/intro-banner.png)
+![repo header image](img/intro-banner.png)
